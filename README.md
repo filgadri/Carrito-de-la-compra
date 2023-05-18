@@ -15,3 +15,8 @@ Entre las funcionalidades del carrito están:
 ✔ Total del importe a pagar por línea de producto 💰.
 
 ✔ Total general del importe a pagar por compra💲💸🤑.
+
+Para este proyecto se ha usado:
+HTML
+JAVASCRIPT
+CSS
