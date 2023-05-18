@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "nombre": "Pantalón jogger lino rústico",
+        "precio": 25.99,
+        "img": "pantalon1.png",
+        "cantidad": 1,
+        "tipo": "jogger"    
+    }, 
+    {
+        "id": 2,
+        "nombre": "Pantalón cargo caqui cremalleras",
+        "precio": 39.99,
+        "img": "pantalon2.png",
+        "cantidad": 1,
+        "tipo": "cargo"
+    }, 
+    {
+        "id": 3,
+        "nombre": "Pantalón jogger lino rústico",
+        "precio": 25.99,
+        "img":"pantalon3.png", 
+        "cantidad": 1,
+        "tipo": "jogger"
+    },   
+    {
+        "id": 4,
+        "nombre": "Pantalón cargo",
+        "precio": 29.99,
+        "img": "pantalon4.png",  
+        "cantidad": 1,
+        "tipo":"cargo"
+    }, 
+    {
+        "id": 5,
+        "nombre": "Pantalón jogger lino rústico",
+        "precio":25.99, 
+        "img": "pantalon5.png", 
+        "cantidad": 1,
+        "tipo":"jogger"
+    }, 
+    {
+        "id": 6,
+        "nombre": "Pantalón cargo jogger",
+        "precio": 29.99,
+        "img": "pantalon6.png", 
+        "cantidad": 1,
+        "tipo":"cargo jogger"
+    },     
+    {
+        "id": 7,
+        "nombre": "Pantalón cargo jogger",
+        "precio": 29.99,
+        "img": "pantalon7.png", 
+        "cantidad": 1,
+        "tipo":"cargo jogger"
+    }, 
+    {
+        "id": 8,
+        "nombre": "Pantalón jogger cargo básico",
+        "precio": 25.99,
+        "img": "pantalon8.png", 
+        "cantidad": 1,
+        "tipo": "cargo jogger"
+    }, 
+    {
+        "id": 9,
+        "nombre": "Pantalón jogger lino rústico",
+        "precio": 25.99,
+        "img": "pantalon9.png", 
+        "cantidad": 1,
+        "tipo":"jogger"
+    } 
+]
